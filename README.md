@@ -1,4 +1,4 @@
 Testando branch main
 
 
-O readme, ẽ ao diff
+O readme, é a diff
